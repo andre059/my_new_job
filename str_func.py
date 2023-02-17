@@ -1,5 +1,6 @@
 def translation_capital_letters(x):
     """делаем верхний регистр"""
 
-    a = upper(x)
+    c = x
+    a = x.upper(c)  # !
     return a
