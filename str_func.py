@@ -12,6 +12,6 @@ def translation_capital_letters(x):
 def first_letters_uppercase(b):
     """
     переводим первые буквы предложения в верхний регистр
-    :return: возвращаем предложение, слово
+    :return: возвращаем предложение, слова
     """
     return b.title()
